@@ -23,7 +23,7 @@ allprojects {
 
 apply plugin: 'com.android.library'
 android {
-	compileSdkVersion 16
+	compileSdkVersion 20
 	buildToolsVersion "20.0.0"
 
     sourceSets {
